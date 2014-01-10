@@ -21,3 +21,5 @@
 
 # dataset related #
 ###################
+*.csv
+data/
